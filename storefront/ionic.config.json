@@ -1,0 +1,7 @@
+{
+  "name": "storefront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

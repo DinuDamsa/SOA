@@ -1,0 +1,7 @@
+{
+  "name": "cart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
